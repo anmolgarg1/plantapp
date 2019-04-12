@@ -1,2 +1,2 @@
-# plantapp
+# Plant App
 React Native App
